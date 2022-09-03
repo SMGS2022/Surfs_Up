@@ -8,10 +8,17 @@ The client, W. Avy, wants to open an icecream shop that serves surf gear, entitl
 This analysis focuses on temperature six different weather stations on Oahu, Hawaii from years 2010-2017
 - There are less data points for December (1517 data points) than June (1700 data points)
 
-#### Data Dispersion 
+![both](/Resources/both.png)
+
+#### Two additional Queries and Charts
 - Temperatures are more disperced in December
 - June's mean is 79.94 F. with a median of 75.00 F.
 - December's mean is 71.04 F. with a median of 71.0 F.
 
+![june](/Resources/june.png)
 
+![december](/Resources/december.png)
 
+## Summary 
+
+The data above illustrates a quick look of the weather in Oahu, Hawaii. There are very steady temperatures throughout the year. 
